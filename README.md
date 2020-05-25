@@ -1,9 +1,11 @@
+## Management System 
+본프로젝트는 리액트 학습을 위한 프로젝트 입니다.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
-
+In the project directory, you can run:  
+  
 ### `yarn start`
 
 Runs the app in the development mode.<br />
